@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🤖 Meet DEV!
 
-## Getting Started
+An interactive, AI-themed romantic dashboard built with React + Tailwind CSS.
 
-First, run the development server:
+> A fun, creative frontend project that simulates a “dev boyfriend” who chats, reacts, and stays completely in love with you 💕
+
+---
+
+## ✨ Features
+
+- 💬 **Dynamic Chat System**
+  - Dev sends random flirty messages
+  - Interactive responses triggered by user actions
+
+- 🔋 **Battery / Charge System**
+  - Charge Dev and watch animations + reactions
+  - Real-time state updates
+
+- 💖 **Love Meter**
+  - “Infinite love” concept with playful UI feedback
+
+- 📅 **Date Night Calendar**
+  - Predefined romantic events with modal popups
+
+- 📋 **To-Do System**
+  - Tasks trigger custom responses and animations
+
+- 🎙️ **Voice Notes UI**
+  - Simulated playback with progress animations
+
+- 🔒 **Easter Egg System**
+  - Hidden interaction-based unlockable content
+
+- 🎨 **Theme Toggle**
+  - 🌙 Romance Mode (Dark Theme)
+  - ☀️ Day Mode (Light Theme with proper contrast)
+
+- ✨ **Advanced UI/UX**
+  - Glassmorphism
+  - Neon gradients
+  - Micro-interactions (hover, animations, floating hearts)
+  - Fully responsive layout
+
+---
+
+## 🛠️ Tech Stack
+
+- **React (Next.js)**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+
+---
+
+## 🚀 Getting Started
 
 ```bash
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/dev-boyfriend-app.git
+
+# Navigate into project
+cd dev-boyfriend-app
+
+# Install dependencies
+npm install
+
+# Run the development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
