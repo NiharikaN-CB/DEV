@@ -72,7 +72,7 @@ export default function App() {
     const [notifications, setNotifications] = useState([]);
     const [tasks, setTasks] = useState(INITIAL_TASKS);
     const [selectedEvent, setSelectedEvent] = useState(null);
-    const [darkMode, setDarkMode] = useState(false);
+    const [darkMode, setDarkMode] = useState(true);
     const [upgradeMsg, setUpgradeMsg] = useState("");
     const [loveMeterVal, setLoveMeterVal] = useState(0);
     const [showLoveMeter, setShowLoveMeter] = useState(false);
