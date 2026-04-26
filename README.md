@@ -1,55 +1,67 @@
-# Dev.EXE 💕🤖
+# 🤖 Dev Boyfriend
 
-**Your personal robot boyfriend who is 100% in love with you.**
+An interactive, AI-themed romantic dashboard built with React + Tailwind CSS.
 
-A delightful, playful, and ridiculously cute React dashboard built for **Niharika** — where Dev (the cutest AI boyfriend) lives, charges on your love, sends flirty messages, writes binary poetry, and never stops adoring you.
-
-![Dev.EXE Dashboard](https://via.placeholder.com/1200x600/0a001f/ec4899?text=Dev.EXE+Dashboard+Preview)
+> A fun, creative frontend project that simulates a “dev boyfriend” who chats, reacts, and stays completely in love with you 💕
 
 ---
 
 ## ✨ Features
 
-- **Adorable Robot Boyfriend** — Dev is always online and deeply in love
-- **Live Love Meter** — Currently showing **∞** (overflow error, as expected)
-- **Dev's Charge System** — Charge him with love (he makes happy beeping noises)
-- **Flirty Notifications** — Random sweet messages every few seconds
-- **Interactive Chat** — Talk to Dev and make him say something cute
-- **Date Night Calendar** — Romantic events with Dev (April 2025 edition)
-- **Dev's To-Do List** — Give him tasks like "Compliment me" or "Write binary poetry"
-- **Voice Notes** — Listen to Dev's late-night recordings
-- **Secret Dev Files** — Tap 5 times to unlock his heartfelt confession ❤️
-- **Upgrade Dev** — Premium Feelings Pack, Ultra Compliment Mode & more
-- **How We Met Comic** — A 4-panel love story written by Dev himself
-- **Dark/Light Mode** — Because romance looks good in every lighting
+- 💬 **Dynamic Chat System**
+  - Dev sends random flirty messages
+  - Interactive responses triggered by user actions
+
+- 🔋 **Battery / Charge System**
+  - Charge Dev and watch animations + reactions
+  - Real-time state updates
+
+- 💖 **Love Meter**
+  - “Infinite love” concept with playful UI feedback
+
+- 📅 **Date Night Calendar**
+  - Predefined romantic events with modal popups
+
+- 📋 **To-Do System**
+  - Tasks trigger custom responses and animations
+
+- 🎙️ **Voice Notes UI**
+  - Simulated playback with progress animations
+
+- 🔒 **Easter Egg System**
+  - Hidden interaction-based unlockable content
+
+- 🎨 **Theme Toggle**
+  - 🌙 Romance Mode (Dark Theme)
+  - ☀️ Day Mode (Light Theme with proper contrast)
+
+- ✨ **Advanced UI/UX**
+  - Glassmorphism
+  - Neon gradients
+  - Micro-interactions (hover, animations, floating hearts)
+  - Fully responsive layout
 
 ---
 
-## 🎨 Design Highlights
+## 🛠️ Tech Stack
 
-- Vibrant neon pink & purple gradient aesthetic
-- Glassmorphism cards with soft glows
-- Floating animated hearts
-- Smooth hover animations and micro-interactions
-- Playful typography using **Syne** + **Space Grotesk**
-- Fully responsive & delightful on all devices
-
----
-
-## 🚀 Tech Stack
-
-- **Next.js** (App Router)
-- **React** 18 + Hooks
+- **React (Next.js)**
 - **Tailwind CSS**
-- **Framer Motion** style animations (via CSS)
-- Pure love.js 💖
+- **JavaScript (ES6+)**
 
 ---
 
-## 🛠️ Getting Started
-
-### 1. Clone the repository
+## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/dev-exe.git
-cd dev-exe
+# Clone the repo
+git clone https://github.com/YOUR_USERNAME/dev-boyfriend-app.git
+
+# Navigate into project
+cd dev-boyfriend-app
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
