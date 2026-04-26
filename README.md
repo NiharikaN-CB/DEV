@@ -1,4 +1,4 @@
-# 🤖 Dev Boyfriend
+# 🤖 Meet DEV!
 
 An interactive, AI-themed romantic dashboard built with React + Tailwind CSS.
 
